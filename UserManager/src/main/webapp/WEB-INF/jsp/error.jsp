@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Oops</title>
+<title>Nyooooo</title>
 </head>
 <body>
 	Oh no something went wrong!
