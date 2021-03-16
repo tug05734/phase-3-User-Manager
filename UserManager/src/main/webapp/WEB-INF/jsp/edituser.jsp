@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Edit User</title>
+<title>User Spring App</title>
 </head>
 <body>
 	<h2>Edit User</h2>
@@ -24,7 +24,7 @@
 			<input type="text" placeholder="Name" id="name" name="name"><br><br> 
 			<label for="email">Edit E-mail:</label>
 			<input type="text" placeholder="Email" id="email" name="email"><br><br> 
-			<label for="password">Enter ID:</label>
+			<label for="password">Enter Password:</label>
 			<input type="password" placeholder="Password" id="password" name="password"><br><br> 
 			<br> <input type="submit" value="Update"><br><br>
 	</form>

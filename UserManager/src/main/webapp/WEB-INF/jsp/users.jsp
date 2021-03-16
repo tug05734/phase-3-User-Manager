@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Users</title>
+<title>User Spring App</title>
 </head>
 <body>
 	<h2>Users</h2>
